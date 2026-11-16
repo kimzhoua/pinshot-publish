@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 16,\n  \"versionName\": \"1.9.6\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/pinshot-publish/main/dist/app-1.9.6.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/pinshot-publish/main/dist/app-1.9.6.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/pinshot-publish/main/dist/update.json\",\n  \"sha256\": \"389c720a39294b4e60e53bef89848c50037a6c4a337f96ffc5bcc7b905d18bd1\",\n  \"notes\": \"1. 新增应用内在线更新：读取签名清单，下载后校验 sha256 再安装\\n2. 贴图边框/放大设置保持不变\"\n}",
+  "sig": "aEzNIxMVgyFANUsq+50ypTcKEhbcr/TVVM51IoN5aQ6Zgr8N/UBcfKUcI+nS3omTHnfnFgRzgXGvRXh+v6eM36yb909GAl5dbijkl2q80GRQ/oLfKPDoTR8aO38WXixrvbGepJVZbu7omwjRRSXh//qBfjZtacdXWIgcfbNYe971wHBtLgFyvDBXmlZSRZPXGEH0JShPhln9Yuk7VigeB3rAzZA0vLl/dYab6cmHeWgD03N1h0RfEoR6Ur5ApEX7XxkNNL9Yz5IqzFl/uG6bcxXycZbxoqGYGyLVJA219Q8mrTy4VHPygIRLbJIvKm6F3NeLZOYZeyPn0RwCfFQ+4Q=="
+}
